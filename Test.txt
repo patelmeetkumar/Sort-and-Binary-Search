@@ -1,0 +1,33 @@
+How many integers would you like to enter: 20
+Please enter an integer: 47
+Please enter an integer: 8
+Please enter an integer: 40
+Please enter an integer: 7
+Please enter an integer: 43
+Please enter an integer: 50
+Please enter an integer: 49
+Please enter an integer: 46
+Please enter an integer: 38
+Please enter an integer: 36
+Please enter an integer: 15
+Please enter an integer: 11
+Please enter an integer: 30
+Please enter an integer: 5
+Please enter an integer: 16
+Please enter an integer: 34
+Please enter an integer: 2
+Please enter an integer: 6
+Please enter an integer: 45
+Please enter an integer: 20
+The sorted array containing entered values is: 2 5 6 7 8 11 15 16 20 30 34 36 38 40 43 45 46 47 49 50 
+Please provide a value to search for in the array: 2
+The entered value is found in the array.
+Please provide a value to search for in the array: 50
+The entered value is found in the array.
+Please provide a value to search for in the array: 30
+The entered value is found in the array.
+Please provide a value to search for in the array: 34
+The entered value is found in the array.
+Please provide a value to search for in the array: 13
+The entered value is not located in the array.
+Please provide a value to search for in the array: 
